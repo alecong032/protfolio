@@ -1,0 +1,29 @@
+
+hr{
+    border-style:none;
+    border-top: 6px dotted #FFCC33;
+    border-width: 6px;
+    width: 4%;/*this is the width of the hr border not the width of the dotted width */
+}
+h1{
+    color:#7A0019
+}
+h3{
+    color: #7A0019;
+}
+footer{
+    text-align: center;
+    margin-top: 100px;
+}
+.section{
+   display:block;
+   
+}
+.headerCollum{
+    display:block;
+    margin:0;
+    background-color:#FFCC33;
+    width: auto;
+    height:100px;
+    
+}
